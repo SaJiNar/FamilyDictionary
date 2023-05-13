@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Diccionario de Familia</string>
+    <string name="expand_button_info">See more or less information about a dog.</string>
+    <string name="family_name_1">Padre</string>
+    <string name="family_description_1">
+        1. m. Varón que ha engendrado uno o más hijos.
+        2. m. Varón en relación con sus hijos.
+        3. m. Varón con cualidades atribuidas a un padre, especialmente su carácter protector y afectivo.
+        4. m. Varón que ejerce de padre.
+        5. m. Hombre que tiene una familia a su cuidado.
+    </string>
+    <string name="family_name_2">Madre</string>
+    <string name="family_description_2">
+        1. f. Mujer que ha concebido o ha parido uno o más hijos.
+        2. f. Mujer en relación con sus hijos.
+        3. f. Mujer con cualidades atribuidas a una madre, especialmente su carácter protector y afectivo.
+        4. f. Mujer que ejerce de madre.
+        5. f. Mujer que tiene una familia a su cuidado.
+    </string>
+</resources>
